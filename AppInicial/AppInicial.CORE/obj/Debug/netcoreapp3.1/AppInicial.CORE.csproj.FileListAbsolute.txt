@@ -1,0 +1,9 @@
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\bin\Debug\netcoreapp3.1\AppInicial.CORE.deps.json
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\bin\Debug\netcoreapp3.1\AppInicial.CORE.dll
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\bin\Debug\netcoreapp3.1\AppInicial.CORE.pdb
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\obj\Debug\netcoreapp3.1\AppInicial.CORE.csprojAssemblyReference.cache
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\obj\Debug\netcoreapp3.1\AppInicial.CORE.AssemblyInfoInputs.cache
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\obj\Debug\netcoreapp3.1\AppInicial.CORE.AssemblyInfo.cs
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\obj\Debug\netcoreapp3.1\AppInicial.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\obj\Debug\netcoreapp3.1\AppInicial.CORE.dll
+C:\Users\Campos\source\repos\AppInicial\AppInicial.CORE\obj\Debug\netcoreapp3.1\AppInicial.CORE.pdb

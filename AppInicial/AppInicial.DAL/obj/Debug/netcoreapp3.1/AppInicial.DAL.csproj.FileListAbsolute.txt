@@ -1,0 +1,15 @@
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\bin\Debug\netcoreapp3.1\AppInicial.CORE.dll
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.AssemblyInfoInputs.cache
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.AssemblyInfo.cs
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.csprojAssemblyReference.cache
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\bin\Debug\netcoreapp3.1\AppInicial.DAL.deps.json
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\bin\Debug\netcoreapp3.1\AppInicial.DAL.dll
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\bin\Debug\netcoreapp3.1\AppInicial.DAL.pdb
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\bin\Debug\netcoreapp3.1\AppInicial.CORE.pdb
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.csproj.CopyComplete
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.dll
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.pdb
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\bin\Debug\netcoreapp3.1\AppInicial.DAL.runtimeconfig.json
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\bin\Debug\netcoreapp3.1\AppInicial.DAL.runtimeconfig.dev.json
+C:\Users\Campos\source\repos\AppInicial\AppInicial.DAL\obj\Debug\netcoreapp3.1\AppInicial.DAL.genruntimeconfig.cache

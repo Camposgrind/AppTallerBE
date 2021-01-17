@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppInicial.CORE\AppInicial.CORE.csproj" />
+    <ProjectReference Include="..\AppInicial.DAL\AppInicial.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
