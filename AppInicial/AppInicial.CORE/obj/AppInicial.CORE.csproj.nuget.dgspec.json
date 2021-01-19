@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {}
+    "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
+    "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj",
         "projectName": "AppInicial.CORE",
-        "projectPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj",
-        "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.CORE\\obj\\",
+        "projectPath": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj",
+        "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.CORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

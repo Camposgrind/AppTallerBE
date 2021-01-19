@@ -9,5 +9,6 @@ namespace AppInicial.DAL.Repositories.Contracts
     {
 
         IEnumerable<VehiculoDTO> Get();
+        IEnumerable<VehiculoDTO> GetStock();
     }
 }

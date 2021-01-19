@@ -33,6 +33,13 @@ namespace AppInicial.API.Controllers
             return Ok(_vehiculoBL.Get());
         }
 
+        [HttpGet]
+        [Route("stock")]
+        public ActionResult<IEnumerable<VehiculoDTO>> GetStock()
+        {
+            return Ok(_vehiculoBL.GetStock());
+        }
+
 
     }
 }

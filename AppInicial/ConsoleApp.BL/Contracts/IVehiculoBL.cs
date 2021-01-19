@@ -8,5 +8,7 @@ namespace AppInicial.BL.Contracts
     public interface IVehiculoBL
     {
         IEnumerable<VehiculoDTO> Get();
+        IEnumerable<VehiculoDTO> GetStock();
+
     }
 }

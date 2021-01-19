@@ -30,7 +30,15 @@ namespace AppInicial.BL.Implementations
         }
 
 
-
+        /// <summary>
+        /// Método que nos devuelve la lista de vehículos DTOS
+        /// </summary>
+        /// <returns></returns>
+        public IEnumerable<VehiculoDTO> GetStock()
+        {
+            var vehiculos = _vehiculoRepository.GetStock();
+            return vehiculos;
+        }
 
 
 

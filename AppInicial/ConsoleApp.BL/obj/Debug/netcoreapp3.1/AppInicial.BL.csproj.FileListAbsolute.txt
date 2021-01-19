@@ -12,3 +12,17 @@ C:\Users\Campos\source\repos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\Ap
 C:\Users\Campos\source\repos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csproj.CopyComplete
 C:\Users\Campos\source\repos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.dll
 C:\Users\Campos\source\repos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.pdb
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.BL.deps.json
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.BL.dll
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.BL.pdb
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.CORE.dll
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.DAL.dll
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.CORE.pdb
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.DAL.pdb
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csprojAssemblyReference.cache
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.AssemblyInfoInputs.cache
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.AssemblyInfo.cs
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csproj.CopyComplete
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.dll
+C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.pdb

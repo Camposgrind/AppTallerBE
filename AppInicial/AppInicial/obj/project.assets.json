@@ -6735,19 +6735,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Campos\\.nuget\\packages\\": {}
+    "C:\\Users\\ruben\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\AppInicial.API.csproj",
+      "projectUniqueName": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial\\AppInicial.API.csproj",
       "projectName": "AppInicial.API",
-      "projectPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\AppInicial.API.csproj",
-      "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\obj\\",
+      "projectPath": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial\\AppInicial.API.csproj",
+      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6761,14 +6761,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
-              "projectPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj"
+            "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
+              "projectPath": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj"
             },
-            "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj": {
-              "projectPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj"
+            "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj": {
+              "projectPath": "C:\\Users\\ruben\\Proyectos\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj"
             },
-            "C:\\Users\\Campos\\source\\repos\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj": {
-              "projectPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj"
+            "C:\\Users\\ruben\\Proyectos\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj": {
+              "projectPath": "C:\\Users\\ruben\\Proyectos\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj"
             }
           }
         }
@@ -6800,7 +6800,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
