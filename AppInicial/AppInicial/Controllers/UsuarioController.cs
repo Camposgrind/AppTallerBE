@@ -25,5 +25,13 @@ namespace AppInicial.API.Controllers
         {
             return Ok(_usuarioBL.Get());
         }
+
+        [HttpGet]
+        [Route("ventasTotales")]
+        public ActionResult <int?> GetVentasTotales()
+        {
+            return Ok(_usuarioBL.GetVentasTotales());
+        }
+
     }
 }

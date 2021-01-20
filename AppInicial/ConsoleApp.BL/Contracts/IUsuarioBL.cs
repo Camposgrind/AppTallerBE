@@ -9,5 +9,7 @@ namespace AppInicial.BL.Contracts
     {
         bool Login(UsuarioDTO usuarioDTO);
         IEnumerable<UsuarioDTO> Get();
+
+        public int? GetVentasTotales();
     }
 }

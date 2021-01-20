@@ -9,5 +9,6 @@ namespace AppInicial.DAL.Repositories.Contracts
     {
         bool Login(UsuarioDTO usuarioDTO);
         IEnumerable<UsuarioDTO> Get();
+        public int? GetVentasTotales();
     }
 }

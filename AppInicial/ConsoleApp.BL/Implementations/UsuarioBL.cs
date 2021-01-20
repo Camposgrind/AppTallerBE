@@ -24,5 +24,11 @@ namespace AppInicial.BL.Implementations
             var vehiculos = _usuarioRepository.Get();
             return vehiculos;
         }
+
+        public int? GetVentasTotales()
+        {
+            int? ventasTotales = _usuarioRepository.GetVentasTotales();
+            return ventasTotales;
+        }
     }
 }

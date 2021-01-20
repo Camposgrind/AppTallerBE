@@ -26,3 +26,17 @@ C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppIni
 C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csproj.CopyComplete
 C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.dll
 C:\Users\ruben\Proyectos\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.pdb
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.BL.deps.json
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.BL.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.BL.pdb
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.CORE.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.DAL.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.CORE.pdb
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.DAL.pdb
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csprojAssemblyReference.cache
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.AssemblyInfoInputs.cache
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.AssemblyInfo.cs
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csproj.CoreCompileInputs.cache
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.csproj.CopyComplete
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\AppInicial.BL.pdb
