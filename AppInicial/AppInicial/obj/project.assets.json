@@ -1948,20 +1948,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "AppInicial.BL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "AppInicial.CORE": "1.0.0",
-          "AppInicial.DAL": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/AppInicial.BL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AppInicial.BL.dll": {}
-        }
-      },
       "AppInicial.CORE/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1986,6 +1972,20 @@
         },
         "runtime": {
           "bin/placeholder/AppInicial.DAL.dll": {}
+        }
+      },
+      "ConsoleApp.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AppInicial.CORE": "1.0.0",
+          "AppInicial.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleApp.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApp.BL.dll": {}
         }
       }
     }
@@ -6711,11 +6711,6 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "AppInicial.BL/1.0.0": {
-      "type": "project",
-      "path": "../ConsoleApp.BL/AppInicial.BL.csproj",
-      "msbuildProject": "../ConsoleApp.BL/AppInicial.BL.csproj"
-    },
     "AppInicial.CORE/1.0.0": {
       "type": "project",
       "path": "../AppInicial.CORE/AppInicial.CORE.csproj",
@@ -6725,13 +6720,18 @@
       "type": "project",
       "path": "../AppInicial.DAL/AppInicial.DAL.csproj",
       "msbuildProject": "../AppInicial.DAL/AppInicial.DAL.csproj"
+    },
+    "ConsoleApp.BL/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp.BL/ConsoleApp.BL.csproj",
+      "msbuildProject": "../ConsoleApp.BL/ConsoleApp.BL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "AppInicial.BL >= 1.0.0",
       "AppInicial.CORE >= 1.0.0",
-      "AppInicial.DAL >= 1.0.0"
+      "AppInicial.DAL >= 1.0.0",
+      "ConsoleApp.BL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6740,9 +6740,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.API.csproj",
-      "projectName": "AppInicial.API",
-      "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.API.csproj",
+      "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.csproj",
+      "projectName": "AppInicial",
+      "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.csproj",
       "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\obj\\",
       "projectStyle": "PackageReference",
@@ -6767,8 +6767,8 @@
             "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj": {
               "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj"
             },
-            "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj": {
-              "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj"
+            "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj": {
+              "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj"
             }
           }
         }

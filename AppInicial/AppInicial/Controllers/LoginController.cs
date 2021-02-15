@@ -24,7 +24,6 @@ namespace AppInicial.API.Controllers
            return _usuarioBL.Login(usuarioDTO);
         }
 
-
     }
 
 }

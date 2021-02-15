@@ -7,7 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\AppInicial.CORE\AppInicial.CORE.csproj" />
     <ProjectReference Include="..\AppInicial.DAL\AppInicial.DAL.csproj" />
-    <ProjectReference Include="..\ConsoleApp.BL\AppInicial.BL.csproj" />
+    <ProjectReference Include="..\ConsoleApp.BL\ConsoleApp.BL.csproj" />
   </ItemGroup>
 
 

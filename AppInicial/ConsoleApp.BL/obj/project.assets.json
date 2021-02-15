@@ -6720,9 +6720,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj",
-      "projectName": "AppInicial.BL",
-      "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj",
+      "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj",
+      "projectName": "ConsoleApp.BL",
+      "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj",
       "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\obj\\",
       "projectStyle": "PackageReference",

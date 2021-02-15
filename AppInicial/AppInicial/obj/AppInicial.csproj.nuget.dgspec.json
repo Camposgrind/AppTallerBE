@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\AppInicial.csproj": {}
+    "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\AppInicial.csproj": {
+    "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\AppInicial.csproj",
-        "projectName": "AppInicial",
-        "projectPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\AppInicial.csproj",
+        "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj",
+        "projectName": "AppInicial.CORE",
+        "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj",
         "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Campos\\source\\repos\\AppInicial\\AppInicial\\obj\\",
+        "outputPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,9 +50,212 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj",
+        "projectName": "AppInicial.DAL",
+        "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj",
+        "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
+                "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.csproj",
+        "projectName": "AppInicial",
+        "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\AppInicial.csproj",
+        "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
+                "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj"
+              },
+              "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj": {
+                "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj"
+              },
+              "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj": {
+                "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj",
+        "projectName": "ConsoleApp.BL",
+        "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj",
+        "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj": {
+                "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.CORE\\AppInicial.CORE.csproj"
+              },
+              "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj": {
+                "projectPath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.DAL\\AppInicial.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

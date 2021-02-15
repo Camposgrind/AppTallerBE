@@ -1,0 +1,14 @@
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.BL.deps.json
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.BL.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.BL.pdb
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.CORE.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.DAL.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.CORE.pdb
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\bin\Debug\netcoreapp3.1\AppInicial.DAL.pdb
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.csprojAssemblyReference.cache
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.AssemblyInfoInputs.cache
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.AssemblyInfo.cs
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.csproj.CoreCompileInputs.cache
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.csproj.CopyComplete
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.dll
+C:\Users\Campos\Desktop\AppTallerBE\AppInicial\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.pdb

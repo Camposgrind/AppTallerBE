@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N1yKhNqs+J1JvD7ze2Oit1BfKXH1CVICRG4TXm3WbXQbtK64dz8WHTDDZ/dQf8XmfhEo0d21TKi0lGOH3aX0Pg==",
+  "dgSpecHash": "6eS+ErHFq4Zaj5Qazl8aZcSCY6a+nmgspNXDDEWQQzFrRJMl3prT6f7YjgmM+VHVV6eSGdH/mnGFglPI0NJbEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\AppInicial.BL.csproj",
+  "projectFilePath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\ConsoleApp.BL\\ConsoleApp.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Campos\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Campos\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

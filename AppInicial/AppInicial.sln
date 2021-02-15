@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInicial.API", "AppInicial\AppInicial.API.csproj", "{E350D679-4DA9-4B90-8EEE-E26B12A1647C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppInicial", "AppInicial\AppInicial.csproj", "{E350D679-4DA9-4B90-8EEE-E26B12A1647C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInicial.BL", "ConsoleApp.BL\AppInicial.BL.csproj", "{1B04A7DE-BFA9-4994-B74A-4B969C602060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.BL", "ConsoleApp.BL\ConsoleApp.BL.csproj", "{1B04A7DE-BFA9-4994-B74A-4B969C602060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInicial.DAL", "AppInicial.DAL\AppInicial.DAL.csproj", "{B8F1081C-4470-4ED0-AB84-3F1B972C01D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppInicial.DAL", "AppInicial.DAL\AppInicial.DAL.csproj", "{B8F1081C-4470-4ED0-AB84-3F1B972C01D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInicial.CORE", "AppInicial.CORE\AppInicial.CORE.csproj", "{0242AB92-FD0A-435F-98D4-BFEE3D995693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppInicial.CORE", "AppInicial.CORE\AppInicial.CORE.csproj", "{0242AB92-FD0A-435F-98D4-BFEE3D995693}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppInicial.Test", "AppInicial.Test\AppInicial.Test.csproj", "{62D89E85-11B1-4E52-8925-7393EA1427F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0242AB92-FD0A-435F-98D4-BFEE3D995693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0242AB92-FD0A-435F-98D4-BFEE3D995693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0242AB92-FD0A-435F-98D4-BFEE3D995693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D89E85-11B1-4E52-8925-7393EA1427F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D89E85-11B1-4E52-8925-7393EA1427F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D89E85-11B1-4E52-8925-7393EA1427F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D89E85-11B1-4E52-8925-7393EA1427F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
