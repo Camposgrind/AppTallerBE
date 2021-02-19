@@ -4,8 +4,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 using System.Net.Http;
-using System.Text.Json;
 using AppInicial.CORE.DTO;
+using Newtonsoft.Json;
 
 namespace AppInicial.Test
 {
@@ -29,13 +29,13 @@ namespace AppInicial.Test
             // Act
             var response = await Client.GetAsync(request.Url);
             var value = await response.Content.ReadAsStringAsync();
-            var listaVehiculosVendidos = JsonSerializer.Deserialize<List<VehiculoDTO>>(value);
+            var listaVehiculosVendidos = JsonConvert.DeserializeObject<List<VehiculoDTO>>(value);
 
             // Assert
             response.EnsureSuccessStatusCode();
             Assert.True(listaVehiculosVendidos.Count == 3);
         }
-      /*  [Fact]
+        [Fact]
         public async Task VehiculoTest_AllVehiclesAreSold_ReturnsTrue()
         {
             var request = new
@@ -46,7 +46,7 @@ namespace AppInicial.Test
             // Act
             var response = await Client.GetAsync(request.Url);
             var value = await response.Content.ReadAsStringAsync();
-            var listaVehiculosVendidos = JsonSerializer.Deserialize<List<VehiculoDTO>>(value);
+            var listaVehiculosVendidos = JsonConvert.DeserializeObject<List<VehiculoDTO>>(value);
             Console.WriteLine(listaVehiculosVendidos);
             // Assert
             response.EnsureSuccessStatusCode();
@@ -54,7 +54,7 @@ namespace AppInicial.Test
                 Assert.True(v.Vendido == 1);
 
             }
-        }*/
+        }
         [Fact]
         public async Task VehiculoTest_LengthVehiclesStockListOk_Return4()
         {
@@ -66,11 +66,32 @@ namespace AppInicial.Test
             // Act
             var response = await Client.GetAsync(request.Url);
             var value = await response.Content.ReadAsStringAsync();
-            var listaVehiculosStock = JsonSerializer.Deserialize<List<VehiculoDTO>>(value);
+            var listaVehiculosStock = JsonConvert.DeserializeObject<List<VehiculoDTO>>(value);
 
             // Assert
             response.EnsureSuccessStatusCode();
             Assert.True(listaVehiculosStock.Count == 3);
+        }
+        [Fact]
+        public async Task VehiculoTest_AllVehiclesAreinStock_ReturnsTrue()
+        {
+            var request = new
+            {
+                Url = "/vehiculo/Stock"
+            };
+
+            // Act
+            var response = await Client.GetAsync(request.Url);
+            var value = await response.Content.ReadAsStringAsync();
+            var listaVehiculosVendidos = JsonConvert.DeserializeObject<List<VehiculoDTO>>(value);
+            Console.WriteLine(listaVehiculosVendidos);
+            // Assert
+            response.EnsureSuccessStatusCode();
+            foreach (var v in listaVehiculosVendidos)
+            {
+                Assert.True(v.Vendido == 0);
+
+            }
         }
 
     }

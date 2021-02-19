@@ -1,9 +1,9 @@
 ﻿using AppInicial.CORE.DTO;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
-using System.Text.Json;
 using System.Threading.Tasks;
 using Xunit;
 
@@ -29,7 +29,7 @@ namespace AppInicial.Test
             // Act
             var response = await Client.GetAsync(request.Url);
             var value = await response.Content.ReadAsStringAsync();
-            var listaUsuarios = JsonSerializer.Deserialize<List<UsuarioDTO>>(value);
+            var listaUsuarios = JsonConvert.DeserializeObject<List<UsuarioDTO>>(value);
             
             // Assert
             response.EnsureSuccessStatusCode();
@@ -46,11 +46,34 @@ namespace AppInicial.Test
             // Act
             var response = await Client.GetAsync(request.Url);
             var value = await response.Content.ReadAsStringAsync();
-            var ventasTotales = JsonSerializer.Deserialize<int?>(value);
+            var ventasTotales = JsonConvert.DeserializeObject<int ?>(value);
 
             // Assert
             response.EnsureSuccessStatusCode();
             Assert.True(ventasTotales == 96000);
         }
+        [Fact]
+        public async Task UsuarioTest_AllUserVentas_ReturnsTrue()
+        {
+            var request = new
+            {
+                Url = "/usuario"
+            };
+
+            // Act
+            var response = await Client.GetAsync(request.Url);
+            var value = await response.Content.ReadAsStringAsync();
+            var listaUsuariosVentas = JsonConvert.DeserializeObject<List<UsuarioDTO>>(value);
+            Console.WriteLine(listaUsuariosVentas);
+            // Assert
+            response.EnsureSuccessStatusCode();
+            foreach (var u in listaUsuariosVentas)
+            {
+                Assert.True(u.Rol == "Ventas");
+
+            }
+        }
     }
+
+
 }

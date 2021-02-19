@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "17zpy5Cq7CSRtBrJOgR+XYo6jAnaEg5nO1qN5HjPekPjxceHx0w53lqGdk06Nh1o/dshSVOEFa5wvhw4ntRrGQ==",
+  "dgSpecHash": "fDsTUAKaE/GdH2kWRwT+Zru8O9xLN+whP86A3oAKWq/0z4g59hZoIYMAXghnTvVQNqzly0xTOBGWq6rdbIxE6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Campos\\Desktop\\AppTallerBE\\AppInicial\\AppInicial.Test\\AppInicial.Test.csproj",
   "expectedPackageFiles": [
@@ -44,7 +44,7 @@
     "C:\\Users\\Campos\\.nuget\\packages\\mysql.data.entityframeworkcore\\8.0.22\\mysql.data.entityframeworkcore.8.0.22.nupkg.sha512",
     "C:\\Users\\Campos\\.nuget\\packages\\mysqlconnector\\0.69.9\\mysqlconnector.0.69.9.nupkg.sha512",
     "C:\\Users\\Campos\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\Campos\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Campos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Campos\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\Campos\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\Campos\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
